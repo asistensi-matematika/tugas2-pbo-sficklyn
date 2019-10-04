@@ -1,5 +1,6 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
+
 NAMA: Muh Syafiq Hidayatullah
 
 NRP: 06111840000096
@@ -47,6 +48,11 @@ output: -27i3
 ```
 
 ## screenshot hasil
+no 1
+![image](https://user-images.githubusercontent.com/56068949/66197396-83c1b780-e6c4-11e9-9a76-f3517cd98779.png)
+no 2
+
+![image](https://user-images.githubusercontent.com/56068949/66197448-9e942c00-e6c4-11e9-9757-239194abd622.png)
 
 
 ## UPLOAD
