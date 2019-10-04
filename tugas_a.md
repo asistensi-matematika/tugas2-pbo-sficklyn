@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: Muh Syafiq Hidayatullah
 
-NRP: `isi nrp disini`
+NRP: 06111840000096
 
 
 ## DESKRIPSI SOAL
@@ -47,7 +47,7 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
